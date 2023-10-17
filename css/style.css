@@ -1,0 +1,37 @@
+/* starting of abaya section */
+body{
+    font-size : 22px;
+     line-height: 1.5em; 
+}
+.nowrap{
+    white-space: nowrap;
+}
+.main {
+    align-content: center;
+    margin: auto;
+    background: linear-gradient(to top, pink, rgb(238, 206, 146) );
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    padding-left: 4rem;
+    border-radius: 50px;
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+
+}
+.one h1{
+    font-size: 40px;
+    line-height: 1.5em;
+}
+.one p{
+    width: 75%;
+    text-align: justify;
+    
+}
+.two{
+    padding-top: 3rem;
+    padding-right: 3rem;
+}
+@media screen and (max-width: 1020px){
+    
+}
